@@ -1,2 +1,2 @@
 # Tar implementation
-Implementation of some subset of tar functionality (-f -t so far)
+Implementation of some subset of tar functionality (-t -x options)
